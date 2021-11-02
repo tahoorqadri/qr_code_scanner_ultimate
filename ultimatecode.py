@@ -1,2 +1,8 @@
-import pyrates
-print("hey")
+#pyrates project
+#QR code scanner
+import nymphy
+print("")
+
+
+
+
